@@ -1,0 +1,19 @@
+body{background: #E5DDC5;}
+
+.full_cal{display: flex;
+    justify-content: center;
+    align-items: center;
+margin-top: 210px;
+gap: 20px;}
+.input_button{width: 300px;
+    height: 250px;
+background-color: #B3C8CF;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;}
+.see{
+background-color: #BED7DC;
+display: flex;
+justify-content: center;
+align-items: center;}
